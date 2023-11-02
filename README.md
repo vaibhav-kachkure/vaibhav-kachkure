@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vaibhav-kachkure
-- 👀 I’m interested in web developer
+- 👀 I’m interested in web development 
 - 🌱 I’m currently learning angular
 - 💞️ I’m looking to collaborate on LinkedIn
 - 📫 How to reach me Visit my LinkedIn profile at GitHub bio.
